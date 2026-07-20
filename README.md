@@ -296,4 +296,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0207-course-schedule](https://github.com/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
