@@ -272,4 +272,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0662-maximum-width-of-binary-tree](https://github.com/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
