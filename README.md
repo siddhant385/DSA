@@ -60,6 +60,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/DSA/tree/master/2364-count-number-of-bad-pairs) |
