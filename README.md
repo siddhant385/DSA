@@ -56,6 +56,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0349-intersection-of-two-arrays](https://github.com/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DSA/tree/master/0540-single-element-in-a-sorted-array) |
