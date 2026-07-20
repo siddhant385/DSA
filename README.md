@@ -10,6 +10,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0004-median-of-two-sorted-arrays](https://github.com/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DSA/tree/master/0283-move-zeroes) |
