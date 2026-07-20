@@ -66,6 +66,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0006-zigzag-conversion](https://github.com/DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/DSA/tree/master/0071-simplify-path) |
 ## Uncategorized
 |  |
 | ------- |
