@@ -243,6 +243,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Binary Search
