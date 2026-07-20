@@ -52,6 +52,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1539-kth-missing-positive-number](https://github.com/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/DSA/tree/master/2364-count-number-of-bad-pairs) |
