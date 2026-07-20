@@ -112,5 +112,6 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0012-integer-to-roman](https://github.com/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DSA/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
