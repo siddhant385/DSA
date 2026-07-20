@@ -24,5 +24,6 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Uncategorized
 |  |
 | ------- |
+| [2620-counter](https://github.com/DSA/tree/master/2620-counter) |
 | [2667-create-hello-world-function](https://github.com/DSA/tree/master/2667-create-hello-world-function) |
 <!---LeetCode Topics End-->
