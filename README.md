@@ -130,6 +130,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3842-toggle-light-bulbs](https://github.com/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
 |  |
 | ------- |
