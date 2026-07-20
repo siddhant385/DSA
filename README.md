@@ -93,6 +93,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0007-reverse-integer](https://github.com/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/DSA/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/DSA/tree/master/0509-fibonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/DSA/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
