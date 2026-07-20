@@ -154,6 +154,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0022-generate-parentheses](https://github.com/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/DSA/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/DSA/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
