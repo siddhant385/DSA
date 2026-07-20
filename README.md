@@ -21,4 +21,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/DSA/tree/master/0006-zigzag-conversion) |
+## Uncategorized
+|  |
+| ------- |
+| [2667-create-hello-world-function](https://github.com/DSA/tree/master/2667-create-hello-world-function) |
 <!---LeetCode Topics End-->
