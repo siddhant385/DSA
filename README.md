@@ -194,4 +194,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
