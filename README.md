@@ -120,6 +120,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0231-power-of-two](https://github.com/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/DSA/tree/master/0509-fibonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/DSA/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/DSA/tree/master/1622-fancy-sequence) |
 | [1903-largest-odd-number-in-string](https://github.com/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/DSA/tree/master/1922-count-good-numbers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
