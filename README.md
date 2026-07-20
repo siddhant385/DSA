@@ -270,6 +270,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/DSA/tree/master/0278-first-bad-version) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
 |  |
