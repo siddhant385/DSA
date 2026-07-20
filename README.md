@@ -115,6 +115,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0020-valid-parentheses](https://github.com/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/DSA/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/DSA/tree/master/0131-palindrome-partitioning) |
 | [0796-rotate-string](https://github.com/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
