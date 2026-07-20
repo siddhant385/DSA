@@ -132,6 +132,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3975-filter-occupied-intervals](https://github.com/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Linked List
 |  |
 | ------- |
