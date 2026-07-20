@@ -220,6 +220,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/DSA/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/DSA/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/DSA/tree/master/3993-maximum-value-of-an-alternating-sequence) |
+| [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/DSA/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 ## Two Pointers
 |  |
 | ------- |
