@@ -213,6 +213,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3959-check-good-integer](https://github.com/DSA/tree/master/3959-check-good-integer) |
 | [3963-create-grid-with-exactly-one-path](https://github.com/DSA/tree/master/3963-create-grid-with-exactly-one-path) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
 |  |
 | ------- |
