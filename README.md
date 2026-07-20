@@ -29,6 +29,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0074-search-a-2d-matrix](https://github.com/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DSA/tree/master/0090-subsets-ii) |
