@@ -113,6 +113,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
