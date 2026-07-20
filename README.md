@@ -49,6 +49,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0162-find-peak-element](https://github.com/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DSA/tree/master/0229-majority-element-ii) |
