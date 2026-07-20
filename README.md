@@ -178,6 +178,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Bit Manipulation
 |  |
 | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
