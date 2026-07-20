@@ -158,6 +158,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0242-valid-anagram](https://github.com/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
