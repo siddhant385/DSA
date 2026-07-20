@@ -17,6 +17,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DSA/tree/master/0009-palindrome-number) |
 ## String
 |  |
