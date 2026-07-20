@@ -25,6 +25,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [2620-counter](https://github.com/DSA/tree/master/2620-counter) |
+| [2665-counter-ii](https://github.com/DSA/tree/master/2665-counter-ii) |
 | [2667-create-hello-world-function](https://github.com/DSA/tree/master/2667-create-hello-world-function) |
 | [2704-to-be-or-not-to-be](https://github.com/DSA/tree/master/2704-to-be-or-not-to-be) |
 <!---LeetCode Topics End-->
