@@ -41,6 +41,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/DSA/tree/master/2364-count-number-of-bad-pairs) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Linked List
 |  |
 | ------- |
