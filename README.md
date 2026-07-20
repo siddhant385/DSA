@@ -26,6 +26,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0283-move-zeroes](https://github.com/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DSA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
