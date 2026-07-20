@@ -96,6 +96,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0071-simplify-path](https://github.com/DSA/tree/master/0071-simplify-path) |
 | [0796-rotate-string](https://github.com/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DSA/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3330-find-the-original-typed-string-i](https://github.com/DSA/tree/master/3330-find-the-original-typed-string-i) |
