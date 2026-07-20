@@ -187,4 +187,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DSA/tree/master/0225-implement-stack-using-queues) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
