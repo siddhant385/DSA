@@ -194,6 +194,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2665-counter-ii](https://github.com/DSA/tree/master/2665-counter-ii) |
 | [2667-create-hello-world-function](https://github.com/DSA/tree/master/2667-create-hello-world-function) |
 | [2704-to-be-or-not-to-be](https://github.com/DSA/tree/master/2704-to-be-or-not-to-be) |
+| [3959-check-good-integer](https://github.com/DSA/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
