@@ -234,4 +234,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
