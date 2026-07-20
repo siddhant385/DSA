@@ -90,6 +90,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/DSA/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
