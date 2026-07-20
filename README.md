@@ -7,6 +7,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Linked List
 |  |
 | ------- |
