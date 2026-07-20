@@ -316,4 +316,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0743-network-delay-time](https://github.com/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
