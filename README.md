@@ -94,6 +94,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0796-rotate-string](https://github.com/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DSA/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Uncategorized
 |  |
 | ------- |
