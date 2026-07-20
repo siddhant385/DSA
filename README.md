@@ -188,6 +188,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Uncategorized
 |  |
 | ------- |
