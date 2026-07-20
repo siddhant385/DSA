@@ -57,6 +57,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0260-single-number-iii](https://github.com/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/DSA/tree/master/0410-split-array-largest-sum) |
