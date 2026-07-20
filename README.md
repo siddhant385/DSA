@@ -45,6 +45,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/DSA/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Linked List
 |  |
 | ------- |
