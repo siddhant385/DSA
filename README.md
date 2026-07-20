@@ -104,6 +104,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0029-divide-two-integers](https://github.com/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/DSA/tree/master/0509-fibonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/DSA/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/DSA/tree/master/1903-largest-odd-number-in-string) |
