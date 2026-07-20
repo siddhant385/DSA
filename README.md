@@ -85,6 +85,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3719-longest-balanced-subarray-i](https://github.com/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3833-count-dominant-indices](https://github.com/DSA/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/DSA/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 ## Linked List
 |  |
 | ------- |
