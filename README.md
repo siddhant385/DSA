@@ -11,6 +11,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0014-longest-common-prefix](https://github.com/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DSA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
