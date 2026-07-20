@@ -244,5 +244,6 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/DSA/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
