@@ -98,6 +98,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0509-fibonacci-number](https://github.com/DSA/tree/master/0509-fibonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/DSA/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/DSA/tree/master/1922-count-good-numbers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3516-find-closest-person](https://github.com/DSA/tree/master/3516-find-closest-person) |
 ## String
