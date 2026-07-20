@@ -41,6 +41,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0118-pascals-triangle](https://github.com/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/DSA/tree/master/0139-word-break) |
