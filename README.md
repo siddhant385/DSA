@@ -171,4 +171,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/DSA/tree/master/0401-binary-watch) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
