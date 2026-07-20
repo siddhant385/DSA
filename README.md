@@ -170,6 +170,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0067-add-binary](https://github.com/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DSA/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/DSA/tree/master/0509-fibonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/DSA/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/DSA/tree/master/1622-fancy-sequence) |
