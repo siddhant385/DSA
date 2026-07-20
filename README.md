@@ -155,6 +155,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1922-count-good-numbers](https://github.com/DSA/tree/master/1922-count-good-numbers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3516-find-closest-person](https://github.com/DSA/tree/master/3516-find-closest-person) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
