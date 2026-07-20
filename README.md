@@ -105,6 +105,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2149-rearrange-array-elements-by-sign](https://github.com/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/DSA/tree/master/2364-count-number-of-bad-pairs) |
