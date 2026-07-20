@@ -136,6 +136,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DSA/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3330-find-the-original-typed-string-i](https://github.com/DSA/tree/master/3330-find-the-original-typed-string-i) |
