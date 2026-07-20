@@ -228,6 +228,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Binary Search
