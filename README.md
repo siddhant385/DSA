@@ -110,6 +110,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3576-transform-array-to-all-equal-elements](https://github.com/DSA/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/DSA/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3833-count-dominant-indices](https://github.com/DSA/tree/master/3833-count-dominant-indices) |
