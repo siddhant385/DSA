@@ -60,6 +60,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0704-binary-search](https://github.com/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
