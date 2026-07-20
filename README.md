@@ -125,4 +125,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0205-isomorphic-strings](https://github.com/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
