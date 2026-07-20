@@ -59,6 +59,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0560-subarray-sum-equals-k](https://github.com/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/DSA/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DSA/tree/master/0930-binary-subarrays-with-sum) |
