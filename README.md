@@ -1,2 +1,10 @@
 # DSA
 Collection of LeetCode solutions synced by LeetCode+ Extension
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
