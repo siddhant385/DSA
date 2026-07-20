@@ -300,4 +300,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0210-course-schedule-ii](https://github.com/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
