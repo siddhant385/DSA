@@ -277,5 +277,6 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
