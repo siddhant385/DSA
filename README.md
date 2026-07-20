@@ -159,6 +159,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DSA/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/DSA/tree/master/3330-find-the-original-typed-string-i) |
 ## Uncategorized
 |  |
