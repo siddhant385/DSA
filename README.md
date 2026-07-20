@@ -87,6 +87,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3838-weighted-word-mapping](https://github.com/DSA/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/DSA/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Linked List
 |  |
 | ------- |
