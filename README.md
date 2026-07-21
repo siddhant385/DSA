@@ -71,6 +71,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0704-binary-search](https://github.com/DSA/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DSA/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/DSA/tree/master/0851-loud-and-rich) |
 | [0860-lemonade-change](https://github.com/DSA/tree/master/0860-lemonade-change) |
